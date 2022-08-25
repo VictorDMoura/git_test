@@ -1,2 +1,3 @@
 # git_test
-Repositório para testar comandos básicos do git
+My first GitHub repo!
+Hello Odin!
